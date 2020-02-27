@@ -1,11 +1,11 @@
 ---
 title: Our science
-subtitle: Inspired by Nature, perfected over two decades
+subtitle:
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
+share: true  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
@@ -16,4 +16,4 @@ header:
 ---
 
 
-Currently-available interventions for heavy metal contamination are limited to intravenous, non-specific chelators such as DTPA, that deplete the body's supply of essential elements like zinc and calcium. Our
+Currently-available interventions for heavy metal contamination are limited to intravenous, non-specific chelators such as DTPA, that deplete the body's supply of essential elements like zinc and calcium. 

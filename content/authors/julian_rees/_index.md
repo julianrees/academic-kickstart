@@ -70,9 +70,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Management Team
+- Management
 - Board of Directors
 ---
 <br>
 
-Julian is a co-founder of HOPO Therapeutics and has served as its President and Chief Executive Officer since incorporation in 2020. He has over a decade of research experience focused on the interactions between metal ions and biological systems, with foci in biological inorganic chemistry, ligand and chelator design, and f-block element decorporation. Julian has authored multiple research articles detailing critical studies on the efficacy and applications of HOPO's central technology. In addition to his role at HOPO, he is adjunct faculty in Chemistry at Berkeley City College. He received a B.A. in Chemistry from Goucher College, earned his M.S. and Ph.D. in Chemistry from the University of Washington, and completed a Postdoctoral Fellowship at Lawrence Berkeley National Laboratory.
+Julian is a co-founder of HOPO Therapeutics and has served as its President and Chief Executive Officer since incorporation in 2020. He has over a decade of research experience focused on the interactions between metal ions and biological systems, with foci in biological inorganic chemistry, ligand and chelator design, and f-block element decorporation. Julian has authored multiple research articles detailing critical studies on the efficacy and applications of HOPO's central technology. He received a B.A. in Chemistry from Goucher College, was a DAAD Graduate Scholar at the Max Planck Institute for Chemical Energy Conversion, earned his M.S. and Ph.D. in Chemistry from the University of Washington, and completed a Postdoctoral Fellowship at Lawrence Berkeley National Laboratory. He is currently adjunct faculty at Berkeley City College in addition to his role at HOPO Therapeutics. 
