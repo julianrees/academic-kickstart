@@ -16,6 +16,8 @@ role: Director
 organizations:
 - name: Bioactinide Chemistry Group
   url: "http://actinide.lbl.gov/gtsc/BioAn/index.html"
+- name: Department of Nuclear Engineering
+  url: "https://nuc.berkeley.edu/"
 - name: Chemical Sciences Division
   url: "http://www.lbl.gov/csd"
 - name: Lawrence Berkeley National Laboratory
@@ -72,6 +74,7 @@ email: ""
 user_groups:
 - Board of Directors
 - Scientific Advisory Board
+- Leadership
 ---
 <br>
 Rebecca is an Assistant Professor of Nuclear Engineering at the University of California, Berkeley, and is a Faculty Scientist and Group Leader of the Heavy Element Chemistry Program at Lawrence Berkeley National Laboratory. She is the Principal Investigator of the BioActinide Chemistry Group, as well as the Deputy Director of the Institute for Resilient Communities. Rebecca is an internationally-recognized expert in the biochemistry of the actinides and the treatment and decorporation of internalized radionuclides. She is a recipient of the Early Career Award from the U.S. Department of Energy, ... Rebecca received her B.Sc. in Chemistry from the Ecole Normale Supérieure in France, and her Ph.D. in Chemistry from UC Berkeley.

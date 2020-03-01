@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Julian A. Rees, Ph.D.
+name: Julian Rees, Ph.D.
 
 # Username (this should match the folder name)
 authors:
@@ -72,7 +72,8 @@ email: ""
 user_groups:
 - Management
 - Board of Directors
+- Leadership
 ---
 <br>
 
-Julian is a co-founder of HOPO Therapeutics and has served as its President and Chief Executive Officer since incorporation in 2020. He has over a decade of research experience focused on the interactions between metal ions and biological systems, with foci in biological inorganic chemistry, ligand and chelator design, and f-block element decorporation. Julian has authored multiple research articles detailing critical studies on the efficacy and applications of HOPO's central technology. He received a B.A. in Chemistry from Goucher College, was a DAAD Graduate Scholar at the Max Planck Institute for Chemical Energy Conversion, earned his M.S. and Ph.D. in Chemistry from the University of Washington, and completed a Postdoctoral Fellowship at Lawrence Berkeley National Laboratory. He is currently adjunct faculty at Berkeley City College in addition to his role at HOPO Therapeutics. 
+Julian is a co-founder of HOPO Therapeutics and has served as its President and Chief Executive Officer since incorporation in 2020. He has over a decade of research experience focused on the interactions between metal ions and biological systems, with foci in biological inorganic chemistry, ligand and chelator design, and f-block element decorporation. Julian has authored multiple research articles detailing critical studies on the efficacy and applications of HOPO's central technology. He received a B.A. in Chemistry from Goucher College, was a DAAD Graduate Scholar at the Max Planck Institute for Chemical Energy Conversion, earned his M.S. and Ph.D. in Chemistry from the University of Washington, and completed a Postdoctoral Fellowship at Lawrence Berkeley National Laboratory. In addition to his role at HOPO Therapeutics, he is also adjunct faculty in Chemistry at Berkeley City College.
