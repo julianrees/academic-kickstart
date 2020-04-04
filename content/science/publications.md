@@ -49,5 +49,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-## Publications Related To Our Science
+# Relevant Publications
 Publications text

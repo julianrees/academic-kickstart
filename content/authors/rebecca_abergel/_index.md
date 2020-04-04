@@ -18,10 +18,10 @@ organizations:
   url: "http://actinide.lbl.gov/gtsc/BioAn/index.html"
 - name: Department of Nuclear Engineering
   url: "https://nuc.berkeley.edu/"
-- name: Chemical Sciences Division
-  url: "http://www.lbl.gov/csd"
-- name: Lawrence Berkeley National Laboratory
-  url: "http://www.lbl.gov"
+#- name: Chemical Sciences Division
+#  url: "http://www.lbl.gov/csd"
+#- name: Lawrence Berkeley National Laboratory
+#  url: "http://www.lbl.gov"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -77,4 +77,4 @@ user_groups:
 - Leadership
 ---
 <br>
-Rebecca is an Assistant Professor of Nuclear Engineering at the University of California, Berkeley, and is a Faculty Scientist and Group Leader of the Heavy Element Chemistry Program at Lawrence Berkeley National Laboratory. She is the Principal Investigator of the BioActinide Chemistry Group, as well as the Deputy Director of the Institute for Resilient Communities. Rebecca is an internationally-recognized expert in the biochemistry of the actinides and the treatment and decorporation of internalized radionuclides. She is a recipient of the Early Career Award from the U.S. Department of Energy, ... Rebecca received her B.Sc. in Chemistry from the Ecole Normale Supérieure in France, and her Ph.D. in Chemistry from UC Berkeley.
+Dr. Abergel, co-founder of HOPO Therapeutics, is an Assistant Professor of Nuclear Engineering at the University of California, Berkeley, and Faculty Scientist and Program Leader of the Heavy Element Chemistry Program at Lawrence Berkeley National Laboratory. She is the Principal Investigator of the BioActinide Chemistry Group, as well as the Deputy Director of the Institute for Resilient Communities. Dr. Abergel is an internationally-recognized expert in the biochemistry of the actinides and the treatment and decorporation of internalized radionuclides. She is a recipient of the Early Career Award from the U.S. Department of Energy, a Women Chemists Committee Rising Star Award from the American Chemical Society, and is a Fellow of the American Association for the Advancement of Science. Dr. Abergel received her B.Sc. in Chemistry from the Ecole Normale Supérieure in France, her Ph.D. in Chemistry from the University of California, Berkeley, and completed a postdoctoral fellowship at the Fred Hutchinson Cancer Research Center.

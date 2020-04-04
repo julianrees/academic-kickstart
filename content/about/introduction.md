@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Precision chelation of gadolinium and other heavy metals"
+title = ""
 subtitle = ""
 
 [design]
@@ -44,13 +44,13 @@ subtitle = ""
 
 [advanced]
  # Custom CSS.
- css_style = ""
+ css_style = "text-align: justify"
 
  # CSS class.
  css_class = ""
 +++
 <br>
-{{< figure library="true" src="mainlogo.png"  lightbox="true" width="350">}}
+{{< figure library="true" src="logo2.png"  lightbox="true" width="350">}}
 <br>
 
 **HOPO Therapeutics, Inc.** specializes in the targeted chelation of heavy metals. Our primary focus is the removal of these metals from the body, including preventing and treating the gadolinium deposition that occurs from exposure to MRI contrast agents.

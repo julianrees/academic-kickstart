@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 5  # Order that this section will appear.
 
-title = ""
+title = "Precision chelation of gadolinium and other heavy metals"
 subtitle = ""
 
 [design]
@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "#6baed6"
+  # color = "navy"
 
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -49,9 +49,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-# Applications to Gadolinium Deposition
-Many of the same properties that make HOPO Therapeutics' API ideally suited for use in a radiological incident are similarly desirable in a treatment for gadolinium deposition, a condition that can occur as a result of exposure to gadolinium-based contrast agents (GBCAs) for MRI. Also located in the f-block of the periodic table, gadolinium is effectively chelated by 3,4,3-LI(1,2-HOPO), and pre-clinical studies have shown that ***gadolinium deposition can be effectively prevented through administration of our API***.
+<br>
+{{< figure library="true" src="logo2.png"  lightbox="true" width="350">}}
+<br>
 
-Our oral formulation provides the ideal modality to enable the course of treatment expected to be most effective and preventing gadolinium deposition. In the days and weeks following an injection of a GBCA, a regimen of pills ensures that gadolinium released into the body from the GBCA compound will be chelated by our API and ultimately excreted from the body.
+**HOPO Therapeutics, Inc.** specializes in the targeted chelation of heavy metals. Our primary focus is the removal of these metals from the body, including preventing and treating the gadolinium deposition that occurs from exposure to MRI contrast agents.
 
-For patients who have already received GBCAs in conjunction with an MRI procedure, we are evaluating the efficacy of our API for removal of pre-existing deposited gadolinium. The design of an effective dosing strategy requires a detailed knowledge of the API's pharmacokinetics in humans - information that will be available following our first-in-human clinical trial.
+Our therapeutics are also designed for both prophylaxis and treatment of exposure to radioactive elements such as americium and plutonium. [More about our science.](/science)

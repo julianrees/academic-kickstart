@@ -20,9 +20,7 @@ email_form = 0
 
 ### General Inquiries
 HOPO Therapeutics, Inc.\
-2342 Shattuck Ave \#220\
-Berkeley, CA  94704\
-+1 510 239 3180\
++1 (510) 239 3180\
 info@hopotx.com
 
 ### Specific Inquiries
