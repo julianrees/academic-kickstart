@@ -3,17 +3,17 @@
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blankj"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Precision chelation of gadolinium and other heavy metals"
+#title = "Precision chelation of gadolinium and other heavy metals"
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -42,6 +42,9 @@ subtitle = ""
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
 
+[header]
+  image = "logo2.png"
+
 [advanced]
  # Custom CSS.
  css_style = "text-align: justify"
@@ -49,10 +52,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<br>
-{{< figure library="true" src="logo2.png"  lightbox="true" width="350">}}
-<br>
 
-**HOPO Therapeutics, Inc.** specializes in the targeted chelation of heavy metals. Our primary focus is the removal of these metals from the body, including preventing and treating the gadolinium deposition that occurs from exposure to MRI contrast agents.
 
-Our therapeutics are also designed for both prophylaxis and treatment of exposure to radioactive elements such as americium and plutonium. [More about our science.](/science)
+
+**HOPO Therapeutics** specializes in the targeted chelation of heavy metals. Our primary focus is the removal of these metals from the body, including preventing and treating the gadolinium deposition that occurs from exposure to MRI contrast agents.
+
+Our small molecule therapeutics are also designed for both prophylaxis and treatment of exposure to radioactive elements such as americium and plutonium.

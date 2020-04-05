@@ -45,16 +45,16 @@ interests:
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: http://www.linkedin.com/in/julian-a-rees
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=Z52fbnYAAAAJ
+#social:
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#- icon: linkedin
+#  icon_pack: fab
+#  link: http://www.linkedin.com/in/julian-a-rees
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=Z52fbnYAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/julianrees
@@ -73,6 +73,7 @@ user_groups:
 - Management
 - Board of Directors
 - Leadership
+- Founders
 ---
 <br>
 

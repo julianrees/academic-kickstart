@@ -49,10 +49,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<br>
-{{< figure library="true" src="logo2.png"  lightbox="true" width="350">}}
-<br>
-
 **HOPO Therapeutics, Inc.** specializes in the targeted chelation of heavy metals. Our primary focus is the removal of these metals from the body, including preventing and treating the gadolinium deposition that occurs from exposure to MRI contrast agents.
 
 Our therapeutics are also designed for both prophylaxis and treatment of exposure to radioactive elements such as americium and plutonium. [More about our science.](/science)

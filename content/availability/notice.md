@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = ""
+title = "Important Notice"
 subtitle = ""
 
 [design]
@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "#6baed6"
+  # color = "navy"
 
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -44,14 +44,13 @@ subtitle = ""
 
 [advanced]
  # Custom CSS.
- css_style = "text-align: justify"
+ css_style = ""
 
  # CSS class.
  css_class = ""
 +++
-# Applications to Gadolinium Deposition
-Many of the same properties that make HOPO Therapeutics' API ideally suited for use in a radiological incident are similarly desirable in a treatment for gadolinium deposition, a condition that can occur as a result of exposure to gadolinium-based contrast agents (GBCAs) for MRI. Also located in the f-block of the periodic table, gadolinium is effectively chelated by 3,4,3-LI(1,2-HOPO), and pre-clinical studies have shown that ***gadolinium deposition can be effectively prevented through administration of our API***.
+At this time, it is unfortunately not possible for us to provide, sell, or otherwise distribute the investigational drug 3,4,3-LI(1,2-HOPO) to private individuals, organizations, or physicians outside of our established research partners. Doing so could jeopardize our ability to continue to develop the drug.
 
-Our oral formulation provides the ideal modality to enable the course of treatment expected to be most effective and preventing gadolinium deposition. In the days and weeks following an injection of a GBCA, a regimen of pills ensures that gadolinium released into the body from the GBCA compound will be chelated by our API and ultimately excreted from the body.
+This includes any distribution of the drug through the [FDA's Expanded Access ("Compassionate Use") Program](https://www.fda.gov/news-events/public-health-focus/expanded-access), however we are taking steps to explore our options for making 3,4,3-LI(1,2-HOPO) available via the Expanded Access program. We hope that in the near future, we will be able to make HOPO available through Expanded Access and/or clinical trials.
 
-For patients who have already received GBCAs in conjunction with an MRI procedure, we are evaluating the efficacy of our API for removal of pre-existing deposited gadolinium. The design of an effective dosing strategy requires a detailed knowledge of the API's pharmacokinetics in humans - information that will be available following our first-in-human clinical trial.
+To stay informed regarding this and other updates from us, please [join our mailing list](../#contact) or [follow us on Twitter](https://www.twitter.com/hopotx).
