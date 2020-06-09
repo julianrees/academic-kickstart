@@ -44,24 +44,25 @@ subtitle = ""
 
 [advanced]
  # Custom CSS.
- css_style = "text-align: justify"
+ css_style = "text-align: justify; font-size: 0.9rem;"
 
  # CSS class.
  css_class = ""
 +++
 
-### Gadolinium Deposition
-Our oral formulation provides the ideal modality to enable the course of treatment expected to be most effective and preventing gadolinium deposition. In the days and weeks following an injection of a GBCA, a regimen of pills ensures that gadolinium released into the body from the GBCA compound will be chelated by our API and ultimately excreted from the body.
 
-For patients who have already received GBCAs in conjunction with an MRI procedure, we are evaluating the efficacy of our API for removal of pre-existing deposited gadolinium. The design of an effective dosing strategy requires a detailed knowledge of the API's pharmacokinetics in humans - information that will be available following our first-in-human clinical trial.
+### Gadolinium Deposition
+There are over 15 million magnetic resonance imaging (MRI) procedures performed in the United States each year that utilize an injected gadolinium-based contrast agent, or GBCA. The release of the toxic heavy metal gadolinium from these GBCAs *[results in gadolinium deposition](https://www.fda.gov/drugs/drug-safety-and-availability/fda-drug-safety-communication-fda-warns-gadolinium-based-contrast-agents-gbcas-are-retained-body)* throughout the body, and can lead to serious health complications. Currently there is no way to prevent or treat gadolinium deposition, and the diagnostic benefits of the contrast MRI are generally accepted to outweigh the risks.
+
+In preclinical studies, our chelating agent enables the *[effective prevention of gadolinium deposition](https://doi.org/10.1038/s41598-018-22511-6)*. The oral formulation of the chelator enables the course of treatment we believe will be the most effective at preventing gadolinium deposition: a regimen of pills taken in the days following contrast MRI to ensure that gadolinium released into the body from the GBCA compound will be chelated and excreted from the body, instead of depositing in the kidneys, brain, and bones.
+
+For patients who have already received GBCAs in conjunction with an MRI procedure, we are evaluating the efficacy of our chelator for removal of pre-existing deposited gadolinium. The design of an effective dosing strategy requires a detailed knowledge of the compound's pharmacokinetics in humans - information we anticipate will be available following our first-in-human clinical trial.
+
+
+### Contrast MRI for Patients with Kidney Disease
+*[The American College of Radiology advises against the use of GBCAs for patients with impaired kidney function](https://www.acr.org/-/media/ACR/Files/Clinical-Resources/Contrast_Media.pdf)* due to the risk of nephrogenic systemic fibrosis (NSF), making those individuals ineligible for MRI or MR angiography (MRA) with gadolinium-based contrast.  Instead, patients with kidney disease often undergo alternative imaging procedures using ionizing radiation, such as CT or PET. GBCAs are normally cleared from the body through the kidneys, however the primary excretion route of our chelator is via the liver. Using our chelator to reduce the strain on the kidneys associated with clearing a large dose of GBCA could enable patients with kidney disease to undergo contrast MRI and MRA procedures, giving physicians  ideal diagnostic information, and avoiding unnecessary exposure to radiation.
 
 
 
 ### Radioactive Contamination
-Many of the same properties that make HOPO Therapeutics' API ideally suited for use in a radiological incident are similarly desirable in a treatment for gadolinium deposition, a condition that can occur as a result of exposure to gadolinium-based contrast agents (GBCAs) for MRI. Also located in the f-block of the periodic table, gadolinium is effectively chelated by 3,4,3-LI(1,2-HOPO), and pre-clinical studies have shown that ***gadolinium deposition can be effectively prevented through administration of our API***.
-
-
-### Rapid Clearance
-Heavy metals are excreted quickly once bound by 3,4,3-LI(1,2-HOPO). This ensures that the body is exposed to a minimum amount of radiation following exposure.
-
-plutonium and americium. These radioactive elements, found in the actinide row of the f-block on the periodic table, are of great concern for human and environmental health in the event of a radiological incident. An effective drug treatment for exposure to these elements must be able to bind to, or ***chelate***, the toxic metal atoms, and promote their prompt excretion from the body. 3,4,3-LI(1,2-HOPO), our flagship API, has
+HOPO Therapeutics' lead API and oral formulation has been designed to provide an easily distributed, effective treatment in a large-scale radiological incident. Additionally, the excellent prophylactic efficacy observed in preclinical studies suggests that the chelator can provide an effective means to protect first responders, nuclear workers, or other individuals entering a radiological contamination zone. *[Read more](/publication/an-early-2017/)*

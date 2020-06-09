@@ -5,7 +5,7 @@ title: "HOPO Therapeutics, Inc. is established"
 subtitle: ""
 summary: "Julian A. Rees, Ph.D., and Rebecca J. Abergel, Ph.D. appointed founding directors, and Julian A. Rees named President and Chief Executive Officer"
 authors: []
-tags: []
+tags: [Company]
 categories: []
 date: 2020-02-27
 #lastmod: 2020-02-04T09:29:57-08:00
@@ -27,8 +27,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-**HOPO Therapeutics, Inc. announces its incorporation and the appointments of Rebecca J. Abergel, Ph.D., and Julian A. Rees, Ph.D. to the Board of Directors.  Julian A. Rees is also named President and Chief Executive Officer** \
+**HOPO Therapeutics, Inc. announces incorporation and the appointments of Rebecca J. Abergel, Ph.D., and Julian A. Rees, Ph.D. to the Board of Directors.  Julian A. Rees is also named President and Chief Executive Officer** \
 \
-Dr. Abergel, Assistant Professor in the Department of Nuclear Engineering at the University of California, Berkeley, and Faculty Scientist in the Chemical Sciences Division at Lawrence Berkeley National Laboratory, is a world-renowned expert in the biological chemistry of the actinide elements.\
+[Dr. Abergel](../../authors/rebecca_abergel), Assistant Professor in the Department of Nuclear Engineering at the University of California, Berkeley, and Faculty Scientist in the Chemical Sciences Division at Lawrence Berkeley National Laboratory, is a world-renowned expert in the biological chemistry of the actinide elements.\
 \
-Dr. Rees joins HOPO Therapeutics as President and Chief Executive Office after a postdoctoral fellowship at Lawrence Berkeley National Laboratory.
+[Dr. Rees](../../authors/julian_rees) joins HOPO Therapeutics as President and Chief Executive Office after a postdoctoral fellowship at Lawrence Berkeley National Laboratory. His research included proof-of-concept and validation studies of HOPO's lead drug candidate for indications related to gadolinium deposition.

@@ -44,18 +44,21 @@ subtitle = ""
 
 [advanced]
  # Custom CSS.
- css_style = "text-align: justify"
+ css_style = "text-align: justify; font-size: 0.9rem;"
 
  # CSS class.
  css_class = ""
 +++
-The development of HOPO Therapeutics' flagship active pharmaceutical ingredient (API) began under the purview of the US Department of Energy, with the aim of [creating a pill that could be used to protect and treat people in a nuclear disaster scenario](https://newscenter.lbl.gov/2019/09/12/how-an-anti-nuclear-contamination-pill-could-also-help-mri-patients/). After extensive investigation and pre-clinical evaluation, the experimental agent 3,4,3-LI(1,2-HOPO) emerged as a promising candidate capable of binding to, or ***chelating***, heavy metals and removing them from the body. Our lead API, it has several properties that make it exceptionally suited to serve as a chelating agent for heavy metal toxicity.
+The development of HOPO Therapeutics' flagship active pharmaceutical ingredient (API) began with the aim of [creating a pill that could be used to protect and treat people in a nuclear disaster scenario](https://newscenter.lbl.gov/2019/09/12/how-an-anti-nuclear-contamination-pill-could-also-help-mri-patients/). After extensive investigation and pre-clinical evaluation, the experimental agent 3,4,3-LI(1,2-HOPO) emerged as a promising candidate capable of binding to, or ***chelating***, heavy metals and removing them from the body. As our lead API, it has several properties that make it exceptionally suited to serve as a chelating agent for heavy metal toxicity.
 
 ### Selectivity
-Due to its size and molecular shape, the API chelates the f-block elements of the periodic table, but does not chelate metal atoms that are essential for the body's function, such as iron, zinc, and calcium. The therapeutic interventions that are currently available for the treatment of heavy metal contamination, including EDTA and DTPA, will deplete the body's supply of these essential elements.
+Due to its size and molecular shape, the API chelates the f-block elements of the periodic table, but does not chelate metal atoms that are essential for the body's function, such as iron, zinc, and calcium. The therapeutic interventions that are currently available for the treatment of heavy metal contamination, including EDTA and DTPA, will deplete the body's supply of these essential elements.*[Read more](/publication/bunin-dose-dependent-2013/)*
 
 ### Oral Availability
-The most convenient drug delivery route is an oral medication. This allows for easy self-administration, and is ideal for rapid distribution and treatment for a large population. In pre-clinical studies, 3,4,3-LI(1,2-HOPO) shows good oral availability and efficacy, indicating that the API can maintain efficacy when formulated as an oral capsule.
+The most convenient drug delivery route is an oral medication. This allows for easy self-administration, and is ideal for rapid distribution and treatment for a large population. In pre-clinical studies, 3,4,3-LI(1,2-HOPO) shows good oral availability and efficacy, indicating that the API can maintain efficacy when formulated as an oral capsule. *[Read more](/publication/choi-biodistribution-2015/)*
 
 ### Prophylactic and Delayed Efficacy
-The API effectively removes heavy metals from the body when used either as a prophylaxis or when administered days or weeks following contamination. It can therefore be used to provide protection to first responders in a nuclear disaster scenario, as well as to treat people that have already been exposed.
+The API effectively removes heavy metals from the body when used either as a prophylaxis or when administered days or weeks following contamination. It can be used to provide protection to first responders in a nuclear disaster scenario, as well as to treat patients that have already been exposed. *[Read more](/publication/an-early-2017/)*
+
+### Rapid Clearance
+Heavy metals are excreted quickly once bound by 3,4,3-LI(1,2-HOPO). This ensures that heavy metals remain in the body for a minimal amount of time.

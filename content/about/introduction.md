@@ -49,6 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**HOPO Therapeutics, Inc.** specializes in the targeted chelation of heavy metals. Our primary focus is the removal of these metals from the body, including preventing and treating the gadolinium deposition that occurs from exposure to MRI contrast agents.
+**HOPO Therapeutics** specializes in the targeted chelation of heavy metals. Our primary focus is the removal of these metals from the body, including preventing and treating the gadolinium deposition that occurs from exposure to MRI contrast agents.
 
-Our therapeutics are also designed for both prophylaxis and treatment of exposure to radioactive elements such as americium and plutonium. [More about our science.](/science)
+Our lead compound and oral formulation has been granted Investigational New Drug status by the FDA, and we anticipate the launch of our first-in-human Phase I clinical trial as soon as it is safe and practical to do so.
+
+Our small molecule therapeutics are also designed for both prophylaxis and treatment of exposure to radioactive elements such as plutonium, americium, and uranium. [More about our science.](/science)

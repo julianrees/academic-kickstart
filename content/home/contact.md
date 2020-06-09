@@ -18,19 +18,21 @@ autolink = true
 email_form = 0
 +++
 
+### [Important Notice About Obtaining HOPO](availability)
+
 ### General Inquiries
 HOPO Therapeutics, Inc.\
 +1 (510) 239 3180\
 info@hopotx.com
 
+&nbsp;
 ### Specific Inquiries
 News \& Media: media@hopotx.com\
 Investors: investors@hopotx.com\
 Legal: legal@hopotx.com\
 Careers: careers@hopotx.com
 
-### [Important Notice About Obtaining HOPO](availability)
-
+&nbsp;
 ### Mailing List
 We send periodic updates on our research and corporate news, and other outside news and science related to gadolinium deposition that we consider especially impactful. If you would like to stay updated regarding our progress towards making HOPO-based chelators available, as well as other fundraising and clinical trial milestones, please join our mailing list below!
 <!-- Begin Mailchimp Signup Form -->
@@ -47,3 +49,4 @@ We send periodic updates on our research and corporate news, and other outside n
 </form>
 </div>
 <!--End mc_embed_signup-->
+&nbsp;

@@ -28,12 +28,12 @@ subtitle = ""
   #description = "100%"
   link = "#applications"  
 
-[[feature]]
-  icon = "flask"
-  icon_pack = "fas"
-  name = "[Research](#research)"
-  #description = "100%"  
-  link = "#research"
+#[[feature]]
+#  icon = "flask"
+#  icon_pack = "fas"
+#  name = "[Research](#research)"
+#  #description = "100%"  
+#  link = "#research"
 
 [[feature]]
   icon = "file-alt"
