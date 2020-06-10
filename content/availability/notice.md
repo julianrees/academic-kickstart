@@ -49,8 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-At this time, it is unfortunately not possible for us to provide, sell, or otherwise distribute the investigational drug 3,4,3-LI(1,2-HOPO) to private individuals, organizations, or physicians outside of our established research partners. Doing so could jeopardize our ability to continue to develop the drug.
+At this time, it is unfortunately not possible for us to provide, sell, or otherwise distribute the investigational drug **HOPO 14-1**, or the active pharmaceutical ingredient 3,4,3-LI(1,2-HOPO) to private individuals, organizations, or physicians outside of our established research partners. Doing so could jeopardize our ability to continue to develop the drug.
 
-This includes any distribution of the drug through the [FDA's Expanded Access ("Compassionate Use") Program](https://www.fda.gov/news-events/public-health-focus/expanded-access), however we are taking steps to explore our options for making 3,4,3-LI(1,2-HOPO) available via the Expanded Access program. We hope that in the near future, we will be able to make HOPO available through Expanded Access and/or clinical trials.
+This includes any distribution of the drug through the [FDA's Expanded Access ("Compassionate Use") Program](https://www.fda.gov/news-events/public-health-focus/expanded-access), however we are exploring our options for making HOPO 14-1 available via the Expanded Access program. We hope that in the near future we may be able to provide the investigational drug to those in need.
 
 To stay informed regarding this and other updates from us, please [join our mailing list](../#contact) or [follow us on Twitter](https://www.twitter.com/hopotx).

@@ -15,7 +15,7 @@ role: Director
 # Organizations/Affiliations
 organizations:
 - name: Bioactinide Chemistry Group
-  url: "http://actinide.lbl.gov/gtsc/BioAn/index.html"
+  url: "http://abergel.lbl.gov/"
 - name: Department of Nuclear Engineering
   url: "https://nuc.berkeley.edu/"
 #- name: Chemical Sciences Division
