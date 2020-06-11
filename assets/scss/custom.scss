@@ -74,7 +74,7 @@ nav#navbar-main li.nav-item {
   }
 
   .dropdown-menu {
-    font-size: 10rem;
+    font-size: #{$sta-font-size-small}px;
   }
 
   // Note: dedicated `dropdown-item-active` class to prevent ScrollSpy removing `active` class from language chooser.

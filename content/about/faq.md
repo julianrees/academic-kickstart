@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
-title = "Frequently Asked Questions"
+title = ""
 subtitle = ""
 
 [design]
@@ -49,17 +49,23 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<center> <h1>Frequently Asked Questions</h1> </center>
+<br>
+
 1. **What is HOPO? What does it do?** <br>
-*The investigational drug HOPO 14-1 contains the active pharmaceutical ingredient 3,4,3-LI(1,2-HOPO), a metal chelator. It has been specifically designed to preferentially bind to only heavy metals and to promote their removal from the body, not disrupting the body's store of essential metals like iron, calcium, and zinc.*
+*The investigational drug HOPO 14-1 contains the active pharmaceutical ingredient 3,4,3-LI(1,2-HOPO), a metal chelator. It has been specifically designed to selectively bind heavy metals and promote their removal from the body, without disrupting the body's store of essential metals like iron, calcium, and zinc.*
 
 1. **What kinds of metals does HOPO 14-1 chelate?** <br>
-*Based on the available data, HOPO 14-1 chelates and promotes the removal of most of the lanthanide and actinide elements from the body. This includes gadolinium, as well as radioactive elements like uranium, plutonium, and americium.*
+*Based on the available data, HOPO 14-1 chelates and promotes the removal of most lanthanide and actinide elements from the body. This includes gadolinium, as well as radioactive elements like uranium, plutonium, and americium.*
 
 1. **Will HOPO 14-1 chelate deposited gadolinium that is "free" *AND* gadolinium still bound to a GBCA chelator?** <br>
-*Based on the available data, yes, however the extent of its effectiveness for these scenarios is currently being studied.*
+*Based on the available data, yes. However, the extent of its effectiveness for these scenarios is currently being studied.*
 
 1. **Can I purchase or obtain HOPO 14-1?** <br>
 *At the moment, unfortunately no. Please take a look at our statement regarding the [availability of our investigational drug](../availability).*
+
+1. **Can you answer questions or provide medical advice about metal toxicity or chelation treatments?** <br>
+*No, we cannot provide any medical advice. Questions about exposure to or toxicity from heavy metals, courses of treatment, recommended chelators, symptoms related to heavy metal contamination, or any other heath-related topics should be directed to your physician.*
 
 1. **What can I do to stay informed about your progress?** <br>
 *For shorter, more frequent updates, you can check the [News](../#posts) page of our website, or follow us on [Twitter](http://www.twitter.com/hopotx). We also publish more comprehensive updates via our mailing list - please sign up [here!](../#contact)*

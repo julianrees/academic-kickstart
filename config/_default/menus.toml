@@ -55,16 +55,21 @@
   url = "/about/"
   weight = 40
 
-#  [[main]]
-#    name = "Introduction"
-#    parent = "about"
-#    url = "/about/"
-#    weight = 10
-#  [[main]]
-#    name = "People"
-#    parent = "about"
-#    url = "/about/#people"
-#    weight = 20
+  [[main]]
+    name = "Company"
+    parent = "about"
+    url = "/about/"
+    weight = 10
+  [[main]]
+    name = "People"
+    parent = "about"
+    url = "/about/#management"
+    weight = 20
+  [[main]]
+    name = "FAQ"
+    parent = "about"
+    url = "/about/#faq"
+    weight = 30
 
 
 
