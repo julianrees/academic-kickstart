@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Important Notice"
+title = "Previous News & Press Coverage"
 subtitle = ""
 
 [design]
@@ -49,8 +49,24 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-At this time, it is unfortunately not possible for us to provide, sell, or otherwise distribute the investigational drug **HOPO 14-1**, or the active pharmaceutical ingredient 3,4,3-LI(1,2-HOPO) to private individuals, organizations, or physicians outside of our established research partners. Doing so could jeopardize our ability to continue to develop the drug.
+<br>
 
-This includes any distribution of the drug through the [FDA's Expanded Access ("Compassionate Use") Program](https://www.fda.gov/news-events/public-health-focus/expanded-access), however we are exploring our options for making HOPO 14-1 available via the Expanded Access program. We hope that in the near future we may be able to provide the investigational drug to those in need.
+**2019**
 
-To stay informed regarding this and other updates from us, please [join our mailing list](../#contact) or [follow us on Twitter](https://www.twitter.com/hopotx).
+[Rebecca Abergel elected a fellow of the American Association for the Advancement of Science (UC Berkeley)](https://news.berkeley.edu/story_jump/five-berkeley-faculty-members-elected-fellows-of-the-aaas/)
+
+[Berkeley Lab creates anti-nuclear contamination pill to help MRI patients (The Daily Californian)](https://www.dailycal.org/2019/09/15/berkeley-lab-creates-anti-nuclear-contamination-pill-to-help-mri-patients/)
+
+[A Single Dose for Good Measure: How an Anti-Nuclear-Contamination Pill Could Also Help MRI Patients (Berkeley Lab News)](https://newscenter.lbl.gov/2019/09/12/how-an-anti-nuclear-contamination-pill-could-also-help-mri-patients/)
+
+**2018**
+
+[Julian Rees and Rebecca Abergel Publish Proof-of-Concept Study Showing Effective Treatment for Gadolinium Contamination](https://www.nature.com/articles/s41598-018-22511-6)
+
+**2013**
+
+[Rebecca Abergel named to MIT Technology Review's list of Innovators Under 35](https://www.innovatorsunder35.com/the-list/rebecca-abergel/)
+
+**2012**
+
+[Responding to the Radiation Threat (Berkeley Lab News)](https://newscenter.lbl.gov/2012/03/06/responding-to-the-radiation-threat/)
