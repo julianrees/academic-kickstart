@@ -34,7 +34,7 @@ Careers: careers@hopotx.com
 
 &nbsp;
 ### Mailing List
-We send periodic updates on our research and corporate news, and other outside news and science related to gadolinium deposition that we consider especially impactful. If you would like to stay updated regarding our progress towards making HOPO-based chelators available, as well as other fundraising and clinical trial milestones, please join our mailing list below!
+We send periodic updates on our research and corporate news, and other outside news and science related to gadolinium deposition that we consider especially impactful. If you would like to stay updated regarding our progress towards making HOPO-based chelating pharmaceuticals available, as well as other fundraising and clinical trial milestones, please join our mailing list below!
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <div id="mc_embed_signup">

@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-**The development of HOPO Therapeutics' lead drug candidate HOPO-14 as a medical countermeasure for use in a radiological disaster scenario is detailed in an interview with co-founder [Rebecca Abergel, Ph.D.](../../authors/rebecca_abergel/) in *[Cancer Cytopathology](https://doi.org/10.1002/cncy.22298)*, a journal of the [American Cancer Society](http://www.cancer.org). An effective treatment for removal of radioactive and other heavy metals from the body, its performance in preclinical trials has been vastly superior to any other chelating agent.**
+**The development of HOPO Therapeutics' lead drug candidate as a medical countermeasure for use in a radiological disaster scenario is detailed in an interview with co-founder [Rebecca Abergel, Ph.D.](../../authors/rebecca_abergel/) in *[Cancer Cytopathology](https://doi.org/10.1002/cncy.22298)*, a journal of the [American Cancer Society](http://www.cancer.org). An effective treatment for removal of radioactive and other heavy metals from the body, its performance in preclinical trials has been vastly superior to any other chelating agent.**
 \
 \
 *[Learn more about our science](../../science/)*

@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Designed to selectively chelate the rare earth f-block elements, 3,4,3-LI(1,2-HOPO) - the active ingredient in HOPO Therapeutics' oral drug candidate HOPO-14 - has allowed researchers in Rebecca Abergel's group at Lawrence Berkeley National Laboratory to provide the first measurements of an einsteinium bond length. It also reinforces the unmatched capability of this chelator to bind f-block metal ions such as gadolinium.
+Designed to selectively chelate the rare earth f-block elements, 3,4,3-LI(1,2-HOPO) - the active ingredient in HOPO Therapeutics' lead drug candidate - has allowed researchers in Rebecca Abergel's group at Lawrence Berkeley National Laboratory to provide the first measurements of an einsteinium bond length. It also reinforces the unmatched capability of this chelator to bind f-block metal ions such as gadolinium.
 
 
 Originally published in the journal [*Nature*](https://doi.org/10.1038/s41586-020-03179-3), additional reporting is available from [Berkeley Lab](https://newscenter.lbl.gov/2021/02/03/discoveries-at-the-edge-of-the-periodic-table-first-ever-measurements-of-einsteinium/), [NBC News](https://www.nbcnews.com/science/science-news/mysterious-radioactive-element-einsteinium-measured-first-time-n1256870), and [*The New York Times*](https://www.nytimes.com/2021/02/07/science/einsteinium-chemistry-elements.html)
