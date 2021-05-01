@@ -49,8 +49,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**HOPO Therapeutics** specializes in the targeted chelation of heavy metals, and the safe removal of these metals from the body. This includes decorporation of environmental contaminants such as lead, and also preventing and treating the gadolinium deposition that occurs from exposure to MRI contrast agents.
+**HOPO Therapeutics** develops best-in-class pharmaceuticals for the treatment of heavy metal contamination. This includes:
+- Environmental contaminants like lead and cadmium
+- Gadolinium that deposits in the body after exposure to MRI contrast agents
+- Radioactive elements such as plutonium, americium, and other actinides
 
-Our lead compound and oral formulation, **HOPO 14-1**, has been granted Investigational New Drug status by the FDA, and we anticipate the launch of our first-in-human Phase I clinical trial as soon as it is safe and practical to do so.
+Our class-leading heavy metal chelating agents have been optimized for maximum efficacy, safety, and oral availability, and are effective for both the treatment ***and*** prevention of heavy metal deposition. [More about our science.](/science)
 
-Our small molecule therapeutics are also designed for both prophylaxis and treatment of exposure to radioactive elements such as plutonium, americium, and uranium. [More about our science.](/science)
+The oral formulation of our lead compound - 3,4,3-LI(1,2-HOPO) - has been granted Investigational New Drug status by the FDA, and we anticipate the launch of our first-in-human Phase I clinical trial in 2021.[Availability](/availability)

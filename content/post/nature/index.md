@@ -5,7 +5,7 @@ title: "HOPO-Einsteinium complex published in Nature"
 subtitle: ""
 summary: "Research from Rebecca Abergel's group at Berkeley Lab expands list of elements HOPO will chelate, offers new insight into rare element"
 authors: []
-tags: [Media Coverage]
+tags: [Media Coverage, Publications]
 categories: []
 date: 2021-02-03
 #lastmod: 2020-02-04T09:29:57-08:00

@@ -49,6 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+[**Read a short summary**](/about)
+
 The development of HOPO Therapeutics' flagship active pharmaceutical ingredient, 3,4,3-LI(1,2-HOPO), began with the aim of [creating a pill that could be used to protect and treat people in a nuclear disaster scenario](https://newscenter.lbl.gov/2019/09/12/how-an-anti-nuclear-contamination-pill-could-also-help-mri-patients/). After extensive investigation and pre-clinical evaluation, 3,4,3-LI(1,2-HOPO) emerged as a promising candidate capable of binding to, or ***chelating***, heavy metals and removing them from the body. It has several properties that make it exceptionally suited to serve as a chelating agent for heavy metal toxicity.
 
 ### Selectivity
