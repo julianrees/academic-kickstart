@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "New research details toxicity mechanisms of the lanthanides"
+title: "Lanthanide toxicity research highlighted by NPR's Marketplace, Berkeley Lab"
 subtitle: ""
-summary: "Findings published in *PNAS* provide new insight into underlying causes of lanthanide toxicity, including specific protein systems and cellular functions that may be disrupted"
+summary: "Recent press coverage of work published by co-founder Rebecca Abergel, Ph.D. and coworkers highlights how much there is to discover about how heavy metals behave in the body"
 authors: []
 tags: [Publications]
 categories: []
-date: 2021-04-28
+date: 2021-06-07
 #lastmod: 2020-02-04T09:29:57-08:00
 featured: false
 draft: false
@@ -27,7 +27,14 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-The elements of lanthanide series, which are rare earth heavy metals, are increasingly utilized in a range of industries, including consumer electronics, emerging energy technologies, and medicine. While elements such as gadolinium and lanthanum are routinely administered to patients in pharmaceutical products, little is known about their toxicological profile. As human exposure to these elements through both intentional and accidental means continues to rise, [studies such as this](https://doi.org/10.1073/pnas.2025952118) are essential to understanding, preventing, and treating the negative health outcomes associated with these toxic heavy metals.
+
+Co-founder Rebecca Abergel, Ph.D. [spoke to Marketplace's Sabri Ben-Achour](https://www.marketplace.org/2021/04/30/the-u-s-is-trying-to-reclaim-its-rare-earth-mantle/) about how rare earth elements such as gadolinium are used, produced, and purified.
+
+Lawrence Berkeley National Laboratory, a Department of Energy National Lab and home to the [BioActinide Chemistry group](http://abergel.lbl.gov), also [covered this recent discovery](https://newscenter.lbl.gov/2021/06/07/heavy-metals-disease-yeast/) and its applications for new discoveries in lanthanide toxicity and human health.
+
+
+
+- - -
 
 HOPO Therapeutics develops safe and orally-available chelating agents that bind to and remove heavy metals from the body. Originally [designed for use in a nuclear disaster scenario](https://newscenter.lbl.gov/2019/09/12/how-an-anti-nuclear-contamination-pill-could-also-help-mri-patients/), new applications for [exposure to gadolinium](https://doi.org/10.1038/s41598-018-22511-6), [lead, cadmium](https://doi.org/10.1039/C7NJ04559J), and a range of other heavy metals are being studied. *[Learn more about our science](../../science/)*
 \

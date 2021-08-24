@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "News"
+title = "Recent News"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "post"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 6
 
   # Choose how many pages you would like to offset by
   offset = 0
@@ -60,7 +60,7 @@ subtitle = ""
 
 [design.spacing]
   padding = ["80px", "0", "20px", "0"]
-  
+
 [advanced]
  # Custom CSS.
  css_style = ""
@@ -68,5 +68,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<br><br>
-[*See older news coverage*](/priorpress)
