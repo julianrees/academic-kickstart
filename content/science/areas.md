@@ -15,18 +15,20 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "pills"
+  icon_pack = "fas"
+  name = "[Applications](#applications)"
+  #description = "100%"
+  link = "#applications"  
+
+[[feature]]
   icon = "radiation"
   icon_pack = "fas"
   name = "[Development](#development)"
   #description = "100%"
   link = "#applications"  
 
-[[feature]]
-  icon = "pills"
-  icon_pack = "fas"
-  name = "[Applications](#applications)"
-  #description = "100%"
-  link = "#applications"  
+
 
 #[[feature]]
 #  icon = "flask"

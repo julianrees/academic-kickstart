@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Director
+role: Vice President of Business Development
 
 # Organizations/Affiliations
 organizations:

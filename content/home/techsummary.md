@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 5  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -49,11 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**HOPO Therapeutics** develops best-in-class pharmaceuticals for the treatment of heavy metal contamination. This includes:
-- Environmental contaminants like lead and cadmium
-- Gadolinium that deposits in the body after exposure to MRI contrast agents
-- Radioactive elements such as plutonium, americium, and other actinides
+
+**HOPO Therapeutics** develops best-in-class pharmaceuticals for the treatment of heavy metal contamination. This includes environmental contaminants like lead and cadmium, gadolinium that deposits in the body after exposure to MRI contrast agents, and radioactive elements such as plutonium, and americium.
 
 Our class-leading heavy metal chelating agents have been optimized for maximum efficacy, safety, and oral availability, and are effective for both the treatment ***and*** prevention of heavy metal deposition. [More about our science.](/science)
 
-The oral formulation of our lead compound - 3,4,3-LI(1,2-HOPO) - has been granted Investigational New Drug status by the FDA, and we anticipate the launch of our first-in-human Phase I clinical trial in 2021.[Availability](/availability)
+The oral formulation of our lead compound - 3,4,3-LI(1,2-HOPO) - has been granted Investigational New Drug status by the FDA, and we anticipate a first-in-human Phase I clinical trial to begin in 2022.

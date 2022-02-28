@@ -5,15 +5,15 @@
 
 widget = "blankj"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 5  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 6  # Order that this section will appear.
 
 #title = "A Future Without Lead Poisoning"
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -22,11 +22,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+   color = "#006837"
 
   # Background gradient.
-  # gradient_start = "DarkGreen"
-  # gradient_end = "ForestGreen"
+   gradient_start = "#006837"
+   gradient_end = "#74c476"
 
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
@@ -36,21 +36,20 @@ subtitle = ""
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["40px", "0", "20px", "0"]
 
 [header]
-  image = "logo2.png"
+  # image = "logo2.png"
 
 [advanced]
  # Custom CSS.
- css_style = "text-align: justify"
+ css_style = "text-align: center"
 
  # CSS class.
  css_class = ""
 +++
-
-Every year, millions of children around the world are repeatedly exposed to lead (Pb) and other toxic heavy metals through contaminated drinking water, lead-based paint, and many other environmental sources. Women with Pb exposure also pass lead on to their children, putting them at risk for complications during prenatal development as well as lifelong intellectual and physical disabilities. This transgenerational ["Silent Epidemic"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6187797/pdf/AJPH.2018.304725.pdf) overwhelmingly impacts the most impoverished communities across the United States and throughout the world.
+**No one should experience the life-threatening effects of heavy metals.  We are working towards a future without lead poisoning.**

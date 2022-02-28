@@ -4,19 +4,20 @@
 
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
-title = "Meet the Team"
+title = "Who We Are"
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Founders"
-                #"Management",
-                # "Board of Directors",
-                # "Scientific Advisory Board"
+  user_groups = ["Team"
+  #                "Founders",
+  #              "Management",
+  #               "Board of Directors",
+  #               "Scientific Advisory Board"
                 ]
 
 [design]
@@ -51,5 +52,6 @@ subtitle = ""
  css_style = ""
 
  # CSS class.
- css_class = ""
+ css_class = "section-heading"
 +++
+We possess an exceptional understanding of the behavior of heavy metals in the body, unmatched expertise with the investigational drugs at the core of our technology portfolio, and deep knowledge of business strategy in the life sciences and pharmaceutical industry. We also share an unwavering commitment to the vision, mission, and values of the company.

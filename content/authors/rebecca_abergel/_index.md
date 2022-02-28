@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Director
+role: Co-Founder
 
 # Organizations/Affiliations
 organizations:
@@ -75,6 +75,11 @@ user_groups:
 - Board of Directors
 - Scientific Advisory Board
 - Founders
+- Team
 ---
 <br>
-Rebecca is a co-founder of HOPO Therapeutics, an Assistant Professor of Nuclear Engineering at the University of California, Berkeley, and Faculty Scientist and Program Leader of the Heavy Element Chemistry Program at Lawrence Berkeley National Laboratory. She is the Principal Investigator of the BioActinide Chemistry Group, as well as the Deputy Director of the Institute for Resilient Communities. Dr. Abergel is an internationally-recognized expert in the biochemistry of the actinides and the treatment and decorporation of internalized radionuclides. She is the recipient of an Early Career Award from the U.S. Department of Energy, a Women Chemists Committee Rising Star Award from the American Chemical Society, and she is a Fellow of the American Association for the Advancement of Science. Dr. Abergel received her B.Sc. in Chemistry from the Ecole Normale Supérieure in France, her Ph.D. in Chemistry from the University of California, Berkeley, and completed a postdoctoral fellowship at the Fred Hutchinson Cancer Research Center in Seattle.
+Prof. Rebecca Abergel is a co-founder of HOPO Therapeutics, an Associate Professor of Nuclear Engineering at the University of California, Berkeley, and Faculty Scientist and Program Leader of the Heavy Element Chemistry Program at Lawrence Berkeley National Laboratory. She is the Principal Investigator of the BioActinide Chemistry Group, as well as the Deputy Director of the Institute for Resilient Communities. Prof. Abergel is an internationally-recognized expert in the biochemistry of the actinides and the treatment and decorporation of internalized radionuclides. She is the recipient of an Early Career Award from the U.S. Department of Energy, a Women Chemists Committee Rising Star Award from the American Chemical Society, and she is a Fellow of the American Association for the Advancement of Science. Prof. Abergel received her B.Sc. in Chemistry from the Ecole Normale Supérieure in France, her Ph.D. in Chemistry from the University of California, Berkeley, and completed a postdoctoral fellowship at the Fred Hutchinson Cancer Research Center in Seattle.
+<br>
+<br>
+
+[Back](/about/#team)

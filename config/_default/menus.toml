@@ -16,44 +16,19 @@
 [[main]]
   name = "News"
   url = "#posts"
-  weight = 20
+  weight = 50
 
 [[main]]
   name = "Science"
   identifier = "science"
   url = "/science/"
-  weight = 30
-
-#  [[main]]
-#    name = "Development"
-#    parent = "science"
-#    url = "/science/"
-#    weight = 10
-#
-#    [[main]]
-#      name = "Gadolinium"
-#      parent = "science"
-#      url = "/science/#gadolinium"
-#      weight = 20
-#
-#      [[main]]
-#        name = "Next Steps"
-#        parent = "science"
-#        url = "science/#next"
-#        weight = 30
-#
-#        [[main]]
-#          name = "Publications"
-#          parent = "science"
-#          url = "science/#publications"
-#          weight = 40
-
+  weight = 40
 
 [[main]]
   name = "About"
   identifier = "about"
   url = "/about/"
-  weight = 40
+  weight = 30
 
   [[main]]
     name = "Company"
@@ -63,21 +38,13 @@
   [[main]]
     name = "People"
     parent = "about"
-    url = "/about/#management"
+    url = "/about/#team"
     weight = 20
   [[main]]
     name = "FAQ"
     parent = "about"
     url = "/about/#faq"
     weight = 30
-
-
-
-
-#[[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 40
 
 [[main]]
   name = "Contact"

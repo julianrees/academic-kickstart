@@ -3,17 +3,17 @@
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget = "blankj"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-#title = "A Future Without Lead Poisoning"
+title = ""
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -40,10 +40,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["40px", "0", "20px", "0"]
-
-[header]
-  image = "logo2.png"
+  padding = ["20px", "0", "20px", "0"]
 
 [advanced]
  # Custom CSS.
@@ -52,5 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+**We envision** a world where lead poisoning is treatable. Where children can safely grow up in an older home with lead paint or pipes. Where the transgenerational consequences of lead poisoning cease to plague low-income and vulnerable communities around the world.
 
-Every year, millions of children around the world are repeatedly exposed to lead (Pb) and other toxic heavy metals through contaminated drinking water, lead-based paint, and many other environmental sources. Women with Pb exposure also pass lead on to their children, putting them at risk for complications during prenatal development as well as lifelong intellectual and physical disabilities. This transgenerational ["Silent Epidemic"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6187797/pdf/AJPH.2018.304725.pdf) overwhelmingly impacts the most impoverished communities across the United States and throughout the world.
+**Our mission** is to improve the lives and futures of children, families, and communities living with the effects of lead poisoning. We accomplish this through world-class science and the development of innovative therapeutics specifically designed to provide safe, durable treatment for heavy metal poisoning.
+
+We are uncompromising on **our core values:** that our science be exceptional, our treatments be accessible, and that our patients always remain at the forefront of everything we do. We believe that no child should be disadvantaged simply by the quality of their water, the age of their home, or their proximity to industrial pollutants.  
